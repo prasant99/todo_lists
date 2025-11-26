@@ -1,4 +1,4 @@
-#To-do List Application V1
+#To-do List Application
 
 ## What it does
 A simple command-line to-do list where you can add tasks, view all tasks, and save them to a file. Tasks persist between sessions.
@@ -6,6 +6,7 @@ A simple command-line to-do list where you can add tasks, view all tasks, and sa
 ## Features
 - Add new tasks
 - View all tasks
+- Delete a specific task
 - Tasks are saved to a text file (tasks.txt)
 - Error handling for missing files
 
@@ -18,4 +19,3 @@ A simple command-line to-do list where you can add tasks, view all tasks, and sa
 
 ## Future improvements
 - Mark tasks as done
-- Delete specific tasks
